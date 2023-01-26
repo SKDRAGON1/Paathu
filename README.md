@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://levanter.onrender.com/md)
 <br>
 <br >
 Don't deploy 😁 
